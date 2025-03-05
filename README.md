@@ -3,7 +3,7 @@ T-RICH Network Design and Implementation
 
 Overview
 
-This repository contains the deliverables for the INFO 2416 Summer 2024 Term Project by Dmytro Poliak (Student Number: 100443432) for Section A11 at Kwantlen Polytechnic University. The project involves analyzing a business case for Tony’s Retirement Institute and Care Home (T-RICH) and designing a network infrastructure to support the business operations. The project is organized into four main parts:
+This repository contains the deliverables for the INFO 2416 Summer 2024 Term Project by Dmytro Poliak. The project involves analyzing a business case for Tony’s Retirement Institute and Care Home (T-RICH) and designing a network infrastructure to support the business operations. The project is organized into four main parts:
 
 Part 1: Organizational Chart and Price Chart
 Part 2: Active Directory Plan
@@ -48,9 +48,7 @@ How to Use
 Review Documentation: Open each PDF file to view the detailed analysis, design, and implementation steps.
 Understand the Configuration: The screenshots and write-ups within the PDFs provide evidence of each implementation phase.
 Follow the Project Flow: Start with Part 1 to understand the business case and organizational setup, then follow through Parts 2, 3, and 4 for the technical implementations and reflective write-up.
-Disclaimer
 
-This project and its documentation are the intellectual property of Kwantlen Polytechnic University and are intended solely for academic use. Redistribution or use outside of KPU is prohibited.
 
 Contact
 
